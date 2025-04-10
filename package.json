@@ -1,0 +1,15 @@
+{
+  "name": "duplo-demo",
+  "version": "0.1.0",
+  "author": "RobertDux",
+  "description": "Demo website for the DUPLO program at Dux Group",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
