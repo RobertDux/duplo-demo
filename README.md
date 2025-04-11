@@ -12,3 +12,5 @@ $ pnpm start
 ```
 
 Then open your browser and go to http://localhost:1234.
+
+Tekst
